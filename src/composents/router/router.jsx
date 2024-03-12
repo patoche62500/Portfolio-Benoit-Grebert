@@ -6,12 +6,12 @@ import Error from "../../pages/error/error.jsx";
 // Configuration du routeur normal pour le site en ligne
 const router = createBrowserRouter([
   {
-    path: "/Portfolio-Benoit-Grebert",
+    path: "/",
     element: <Layout />,
     errorElement: <Error />,
     children: [
       {
-        path: "/Portfolio-Benoit-Grebert",
+        path: "/",
         element: <Home />,
         loader: homeLoader,
       },
