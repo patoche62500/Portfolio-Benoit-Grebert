@@ -39,16 +39,16 @@
     {
       "image": "",
       "title": "Kasa",
-      "description": "description",
+      "description": "Création du premier projet en react, se projet est dédié à la vente et location de bien immobiliers",
       "acquis": ["Html", "Scss", "JavaScript"],
       "github": "https://github.com/patoche62500/Kasa"
     },
     {
       "image": "",
-      "title": "titre02",
-      "description": "description",
-      "acquis": ["html", "css"],
-      "github": "https://github.com/patoche62500/Kasa"
+      "title": "Argent Bank",
+      "description": "Création du deuxieme projet en react, se projet est dédié à un site bancaire",
+      "acquis": ["Html", "Scss", "JavaScript"],
+      "github": "https://github.com/patoche62500/ArgentBank"
     }
   ]
 }
