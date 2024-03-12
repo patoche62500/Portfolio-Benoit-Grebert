@@ -17,7 +17,7 @@ import { fetchData } from "../../utils/fonction";
 
 // Fonction loader pour le chargement initial des données
 export async function loader() {
-  const data = await fetchData("/datas/datas.json");
+  const data = await fetchData("/Portfolio-Benoit-Grebert/datas/datas.json");
 
   return { data };
 }

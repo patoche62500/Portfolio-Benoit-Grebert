@@ -3,25 +3,37 @@
   "story": "Développeur passionné et créatif, je façonne des expériences numériques exceptionnelles. Explorez mon portfolio pour découvrir l'harmonie entre code et design, où chaque projet raconte une histoire d'innovation et d'engagement utilisateur.",
   "formation": [
     {
-      "image": "/assets/images/Formation01.png",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/Formation01.png",
       "title": "Udemy - Unreal Engine Create Multiplayer Games with C++",
       "description": "Création de jeux vidéo sous Unreal Engine en c++"
     },
     {
-      "image": "/assets/images/Formation02.png",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/Formation02.png",
       "title": "Open Class Room - Intégrateur Web",
       "description": "Apprendre a mettre en oeuvre le front end d'un site internet"
     }
   ],
   "competence": [
-    { "title": "Html", "image": "/assets/images/html.png" },
-    { "title": "Css", "image": "/assets/images/css01.png" },
-    { "title": "React", "image": "/assets/images/react02.png" },
+    {
+      "title": "Html",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/html.png"
+    },
+    {
+      "title": "Css",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/css01.png"
+    },
+    {
+      "title": "React",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/react02.png"
+    },
     {
       "title": "Unreal Engine - Blueprint & C++",
-      "image": "/assets/images/unreal.png"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/unreal.png"
     },
-    { "title": "Javascript", "image": "/assets/images/js.png" }
+    {
+      "title": "Javascript",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/js.png"
+    }
   ],
   "projet": [
     {

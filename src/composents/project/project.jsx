@@ -7,7 +7,7 @@ export default function Project({ content }) {
   return (
     <article className="container__card__project">
       <div className="container__card__project__image">
-        <img src="/assets/images/teste.png" alt="" />
+        <img src="/Portfolio-Benoit-Grebert/assets/images/teste.png" alt="" />
       </div>
       <div className="container__card__project__content">
         <h4>{content.title}</h4>
@@ -23,7 +23,7 @@ export default function Project({ content }) {
         <div>
           <a href={content.github} target="_blank">
             <img
-              src="/assets/images/github.png"
+              src="/Portfolio-Benoit-Grebert/assets/images/github.png"
               width={50}
               height={50}
               alt=""
