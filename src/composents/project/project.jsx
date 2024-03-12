@@ -11,7 +11,7 @@ export default function Project({ content }) {
       </div>
       <div className="container__card__project__content">
         <h4>{content.title}</h4>
-        <p>content.description</p>
+        <p>{content.description}</p>
         <ul className="container__tags">
           <li>Compétences :</li>
           {content.acquis?.map((e) => (
