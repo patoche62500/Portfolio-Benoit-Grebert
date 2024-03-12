@@ -1,14 +1,14 @@
 /*Base*/
 @import "base/reset.scss";
 //@import "base/_typography.scss";
-//@import "base/fonts.scss";
+@import "base/fonts.scss";
 /*Utils*/
 //@import "utils/_variables.scss";
 //@import "utils/_functions.scss";
-//@import "utils/mixins.scss";
+@import "utils/_mixins.scss";
 //@import "utils/_helpers.scss";
 //@import "utils/_placeholders.scss";
-//@import "utils/animation.scss";
+@import "utils/_animation.scss";
 /*Layout*/
 //@import "layout/_grid.scss";
 //@import "layout/_header.scss";
@@ -24,3 +24,17 @@
 /*Pages*/
 /*Themes*/
 /*Vendors*/
+
+body {
+  background-color: rgb(63, 63, 63);
+  color: White;
+}
+
+a {
+  color: White;
+  transition: all 2s;
+}
+
+a:hover {
+  color: rgb(150, 149, 149);
+}

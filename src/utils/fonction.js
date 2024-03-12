@@ -19,7 +19,7 @@ export async function fetchData(url) {
     // Convertissez la réponse en JSON
     const donneesJSON = await reponse.json();
 
-    console.log("Données récupérées :", donneesJSON);
+    //console.log("Données récupérées :", donneesJSON);
 
     return donneesJSON;
   } catch (erreur) {

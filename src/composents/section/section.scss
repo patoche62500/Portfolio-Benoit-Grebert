@@ -1,0 +1,8 @@
+.container__section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  margin-top: 50px; /* Ajoute une marge supérieure de 50px à la section */
+  scroll-margin-top: 150px;
+}

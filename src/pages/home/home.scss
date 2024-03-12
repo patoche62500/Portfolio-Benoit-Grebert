@@ -1,0 +1,97 @@
+@import "../../styles/utils/_mixins";
+
+main {
+  padding-left: 50px;
+  padding-right: 50px;
+  section {
+    h2 {
+      text-align: center;
+    }
+
+    .container__profile {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .content {
+        text-align: center;
+        width: 100%;
+
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+      }
+
+      @include min768 {
+        flex-direction: row;
+
+        p {
+          padding-left: 50px;
+        }
+      }
+    }
+  }
+}
+
+.container__photo {
+  width: 250px;
+  height: 250px;
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+#story {
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.title--center {
+  text-align: center;
+}
+
+.container__card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+
+  @include min768 {
+    flex-direction: row;
+  }
+}
+
+.container__formation {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding: 25px;
+}
+
+.container__projet {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+
+  .container__projet_element {
+    width: 80%;
+  }
+
+  @include min768 {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+#profile {
+  scroll-margin-top: 150px;
+}
