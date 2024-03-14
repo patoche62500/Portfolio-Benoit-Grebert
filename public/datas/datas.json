@@ -16,11 +16,11 @@
   "competence": [
     {
       "title": "Html",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/html.png"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/html.webp"
     },
     {
       "title": "Css",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/css01.png"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/css01.webp"
     },
     {
       "title": "React",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Unreal Engine - Blueprint & C++",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/unreal.png"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/unreal.webp"
     },
     {
       "title": "Javascript",
