@@ -7,7 +7,7 @@ export default function Project({ content }) {
   return (
     <article className="container__card__project">
       <div className="container__card__project__image">
-        <img src="/Portfolio-Benoit-Grebert/assets/images/teste.png" alt="" />
+        <img src="/Portfolio-Benoit-Grebert/assets/images/teste.webp" alt="" />
       </div>
       <div className="container__card__project__content">
         <h4>{content.title}</h4>
