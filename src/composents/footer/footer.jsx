@@ -14,7 +14,7 @@ export default function Footer() {
               src="/Portfolio-Benoit-Grebert/assets/images/github.png"
               width={50}
               height={50}
-              alt=""
+              alt="Logo GitHub"
             />
           </a>
         </li>
