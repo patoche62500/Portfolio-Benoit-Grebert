@@ -11,7 +11,7 @@ export default function Footer() {
             target="_blank"
           >
             <img
-              src="/Portfolio-Benoit-Grebert/assets/images/github.png"
+              src="/Portfolio-Benoit-Grebert/assets/images/github.webp"
               width={50}
               height={50}
               alt="Logo GitHub"

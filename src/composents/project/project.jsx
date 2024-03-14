@@ -23,7 +23,7 @@ export default function Project({ content }) {
         <div>
           <a href={content.github} target="_blank">
             <img
-              src="/Portfolio-Benoit-Grebert/assets/images/github.png"
+              src="/Portfolio-Benoit-Grebert/assets/images/github.webp"
               width={50}
               height={50}
               alt="Logo GitHub"
