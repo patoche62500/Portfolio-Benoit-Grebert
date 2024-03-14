@@ -3,12 +3,12 @@
 //@import "base/_typography.scss";
 @import "base/fonts.scss";
 /*Utils*/
-//@import "utils/_variables.scss";
+@import "utils/variables.scss";
 //@import "utils/_functions.scss";
-@import "utils/_mixins.scss";
+@import "utils/mixins.scss";
 //@import "utils/_helpers.scss";
 //@import "utils/_placeholders.scss";
-@import "utils/_animation.scss";
+@import "utils/animation.scss";
 /*Layout*/
 //@import "layout/_grid.scss";
 //@import "layout/_header.scss";
@@ -26,7 +26,7 @@
 /*Vendors*/
 
 body {
-  background-color: rgb(63, 63, 63);
+  background-color: $color-background;
   color: White;
 }
 

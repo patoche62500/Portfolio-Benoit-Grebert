@@ -40,7 +40,7 @@ export default function Home() {
         <ul className="container__profile">
           <li>
             <div className="container__photo">
-              <img src={image} alt="Ma Photo" />
+              <img src={image} alt="Ma photo de profile" loading="lazy" />
             </div>
           </li>
           <li className="content">
