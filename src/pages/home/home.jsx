@@ -4,7 +4,7 @@ import { useLoaderData } from "react-router-dom";
 import "./home.scss";
 
 //--
-import image from "/assets/images/benoit.png";
+import image from "/assets/images/benoit.webp";
 // Composants
 import Story from "../../composents/story/story";
 import Formation from "../../composents/formation/formation";

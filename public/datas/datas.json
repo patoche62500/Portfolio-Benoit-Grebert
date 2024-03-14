@@ -3,12 +3,12 @@
   "story": "Développeur passionné et créatif, je façonne des expériences numériques exceptionnelles. Explorez mon portfolio pour découvrir l'harmonie entre code et design, où chaque projet raconte une histoire d'innovation et d'engagement utilisateur.",
   "formation": [
     {
-      "image": "/Portfolio-Benoit-Grebert/assets/images/Formation01.png",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/Formation01.webp",
       "title": "Udemy - Unreal Engine Create Multiplayer Games with C++",
       "description": "Création de jeux vidéo sous Unreal Engine en c++"
     },
     {
-      "image": "/Portfolio-Benoit-Grebert/assets/images/Formation02.png",
+      "image": "/Portfolio-Benoit-Grebert/assets/images/Formation02.webp",
       "title": "Open Class Room - Intégrateur Web",
       "description": "Apprendre a mettre en oeuvre le front end d'un site internet"
     }
