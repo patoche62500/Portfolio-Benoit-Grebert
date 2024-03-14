@@ -26,7 +26,7 @@ export default function Project({ content }) {
               src="/Portfolio-Benoit-Grebert/assets/images/github.png"
               width={50}
               height={50}
-              alt="Projet Logo"
+              alt="Logo GitHub"
             />
           </a>
         </div>
