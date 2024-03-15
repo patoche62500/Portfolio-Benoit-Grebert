@@ -40,6 +40,9 @@ export default function Header() {
           <li>
             <a href="#projet">Projets</a>
           </li>
+          <li>
+            <a href="mailto:bs.studio62@gmail.com">Contact</a>
+          </li>
         </ul>
       </nav>
     </header>
