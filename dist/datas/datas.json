@@ -16,23 +16,28 @@
   "competence": [
     {
       "title": "Html",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/html.webp"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/html.webp",
+      "alt": "logo html"
     },
     {
       "title": "Css",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/css01.webp"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/css01.webp",
+      "alt": "logo css"
     },
     {
       "title": "React",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/react02.png"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/react02.png",
+      "alt": "logo react"
     },
     {
       "title": "Unreal Engine - Blueprint & C++",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/unreal.webp"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/unreal.webp",
+      "alt": "logo unreal engine"
     },
     {
       "title": "Javascript",
-      "image": "/Portfolio-Benoit-Grebert/assets/images/js.png"
+      "image": "/Portfolio-Benoit-Grebert/assets/images/js.png",
+      "alt": "logo javascript"
     }
   ],
   "projet": [
