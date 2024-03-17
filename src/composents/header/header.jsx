@@ -21,7 +21,7 @@ export default function Header() {
     <header>
       <div>
         <div>
-          <img src={logo} alt="logo" />
+          <img src={logo} alt="logo du site" />
         </div>
 
         <h1>Benoît Grébert</h1>
